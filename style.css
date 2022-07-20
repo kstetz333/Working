@@ -1,0 +1,22 @@
+body {
+    background-color: red;
+
+}
+p {
+    margin: 5% 0;
+    padding: 1em;
+    border: 6mm ridge rgb(60, 60, 255) ;
+
+}
+ol {
+    border: 2px solid;
+    display: flex;
+    flex-direction: row;
+
+
+}
+li{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
